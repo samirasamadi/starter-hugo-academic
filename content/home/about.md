@@ -8,6 +8,5 @@ weight: 20
 title: Biography
 design:
   background:
-    image: website-pic.jpeg
+    image: ""
 ---
-hello this is Samira Samadi
