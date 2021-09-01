@@ -35,6 +35,6 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-I am a research group leader at the [Max Planck Institute for Intelligent Systems (MPI-IS)](https://www.google.com/url?q=https%3A%2F%2Fis.mpg.de%2F&sa=D&sntz=1&usg=AFQjCNFrstHcUh0FMUL7vMKjvx4tL9sGKA) in Tübingen, Germany. My research background is in machine learning and algorithm design with a recent focus on developing fair and efficient ML models. More broadly, I study the interactions between humans and AI and use my findings to design AI systems that augment humans’ abilities rather than replacing them. I got my Ph.D. from the School of Computer Science at Georgia Tech under the supervision of Prof. Santosh Vempala. 
+I am a research group leader at the [Max Planck Institute for Intelligent Systems (MPI-IS)](https://www.google.com/url?q=https%3A%2F%2Fis.mpg.de%2F&sa=D&sntz=1&usg=AFQjCNFrstHcUh0FMUL7vMKjvx4tL9sGKA) in Tübingen, Germany. I am also a faculty at the [International Max Planck Research School (IMPRS-IS)](https://imprs.is.mpg.de/) and an associated faculty at the [Max Planck ETH Center for Learning Systems (CLS)](https://learning-systems.org/).
 
-I am also a faculty at the [International Max Planck Research School (IMPRS-IS)](https://imprs.is.mpg.de/) and an associated faculty at the [Max Planck ETH Center for Learning Systems (CLS)](https://learning-systems.org/)
+My research background is in machine learning and algorithm design with a recent focus on developing fair and efficient ML models. More broadly, I study the interactions between humans and AI and use my findings to design AI systems that augment humans’ abilities rather than replacing them. I got my Ph.D. from the School of Computer Science at Georgia Tech under the supervision of Prof. Santosh Vempala.
