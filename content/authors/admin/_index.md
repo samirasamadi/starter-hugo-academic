@@ -1,7 +1,7 @@
 ---
 title: Samira Samadi
 role: "Research Group Leader "
-avatar_filename: website-pic.jpeg
+avatar_filename: avatar.jpg
 bio: ""
 interests: []
 social:
